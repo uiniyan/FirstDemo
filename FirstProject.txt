@@ -2,3 +2,7 @@ Introduction
 Jdk install
 eclips install
 oops
+Abstraction
+Encapsulation
+Inheritance
+olymorphisym
